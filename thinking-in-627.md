@@ -16,3 +16,6 @@ But when I read later, I found the later content is more about the detail.Then I
 ## other todos
 - java basis
 - English exercise
+
+## finally
+today I dont complete all the work, tomorrow morning should complete,or tomorrow should finish double work
